@@ -4,7 +4,7 @@
 - Instructor: [Prof. Himanshu Shekhar](https://iitgn.ac.in/faculty/ee/fac-himanshu)
 - Name: Ekansh Somani
 - Roll: 20110065
-- Git Repo: 
+- Git Repo: https://github.com/Ekanshsomani/SSRP-Assignment-2
 
 # File Information
 
